@@ -6,6 +6,7 @@ All code and functions for bootstrap simulation and visualisation are written en
 Code for generating the dissimilarity matrices and the other supporting functions found in the main branch are originally written by Yulia Lazarova, a postdoc member of the lab.
 Modifications to the RSA code were made by me to wrangle the betas and dissimilarity matrices according to my research.
 
+## Thesis synopsis:
 Thesis title: Investigating cross-modal visual to haptic sensory interactions of familiar and unfamiliar objects in the somatosensory cortex.
 
 Predictive coding is a theory that the brain actively makes predictions about sensory input, based on internal models built from prior knowledge.
