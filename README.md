@@ -1,9 +1,8 @@
 # rsa-thesis
 Code for analysing 7T fMRI data for my thesis project.
 
-## Credit where due:
-Code for generating the dissimilarity matrices and the other supporting functions found in the main branch are originally written by Yulia Lazarova, a postdoc member of the lab.
-Modifications to the RSA code were made by me to wrangle the betas and dissimilarity matrices according to my research. Code and functions for bootstrap simulation and visualisation are written by me.
+Code for generating dissimilarity matrices (RDM) was written by Yulia Lazarova, this code is not published.
+Code and functions for bootstrap simulation and visualising the RDMs are written by me.
 
 ## Thesis synopsis:
 Thesis title: Investigating cross-modal visual to haptic sensory interactions of familiar and unfamiliar objects in the somatosensory cortex.
