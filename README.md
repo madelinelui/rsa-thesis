@@ -1,7 +1,7 @@
 # rsa-thesis
 Code for 7T fMRI data analysis of my thesis project.
 
-Enclosed are functions for bootstrap simulation, wrangling and visualisation of the RDMs are written by me.
+Enclosed are functions for bootstrap simulation, wrangling and visualisation of the RDMs that were written by me.
 
 ## Branches:
 In the main branch, you will find the files that I run different functions from, which are found in the sub-branches "visualise-RDM" and "bootstrap".
