@@ -1,8 +1,7 @@
 # rsa-thesis
-Code for analysing 7T fMRI data for my thesis project.
+Code for 7T fMRI data analysis of my thesis project.
 
-Code for generating dissimilarity matrices (RDM) was written by Yulia Lazarova, this code is not published.
-Code and functions for bootstrap simulation and visualising the RDMs are written by me.
+Enclosed are functions for bootstrap simulation, wrangling and visualisation of the RDMs are written by me.
 
 ## Branches:
 In the main branch, you will find the files that I run different functions from, which are found in the sub-branches "visualise-RDM" and "bootstrap".
