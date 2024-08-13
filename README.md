@@ -1,5 +1,5 @@
 # rsa-thesis
-Code for 7T fMRI data analysis of my thesis project.
+Code for my thesis project's analysis, using representational similarity analysis and bootstrap simulation on 7T fMRI data.
 
 Enclosed are functions for bootstrap simulation, wrangling and visualisation of the RDMs that were written by me.
 
